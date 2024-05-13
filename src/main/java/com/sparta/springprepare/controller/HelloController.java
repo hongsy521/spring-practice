@@ -1,4 +1,4 @@
-package com.sparta.springprepare;
+package com.sparta.springprepare.controller;
 
 public class HelloController{
 
